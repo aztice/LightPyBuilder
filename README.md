@@ -1,9 +1,14 @@
 # LightPyBuilder
 A Builder that allows user to build python application to exe online.
+
 Author: aztice
+
 Author Email: bilibili_wulihb@outlook.com
+
 Author BiliBili UID: 1964068259
+
 If you find any bug,please report to us by email or BiliBili.
+
 # Deploy Requirements
 > PHP
 
