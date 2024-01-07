@@ -18,5 +18,5 @@ If you find any bug,please report to us by email or BiliBili.
 2. Upload all the files in the folder ```/server``` to your server website (With PHP)
 3. Copy the link of your server website
 4. Open the ```config.php``` in your website
-5. Change $YOUR_SERVER_LINK to your server website link
+5. Change ```$YOUR_SERVER_LINK``` to your server website link
 6. Finish!
