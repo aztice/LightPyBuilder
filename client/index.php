@@ -18,8 +18,8 @@ You can edit this page by yourself!
           <th><textarea name="data" placeholder="Enter your data!" style="width:400px;height:500px;"></textarea></th>
           <th><button type="submit" style="font-size:25px;">Build!</button></th>
         </tr>
-      </table>
-    </form>
+      </form>
+    </table>
   </blockquote>
 </body>
 </html>
