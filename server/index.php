@@ -1,4 +1,8 @@
 <?php
+if (!is_dir('./files/')) {
+    // If File is not exists->mkdir
+    mkdir('./files/', 0755, true);
+}
 $codes=$_GET['codes']; // get the source codes
 $mt=mt_rand(0,10000000); // Random Number for saving a python file
 $f='./files/'.$mt.'py';
