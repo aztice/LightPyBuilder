@@ -10,7 +10,8 @@ If you find any bug,please report to us by email or BiliBili.
 > Python
 # Requrements of PHP and Python
 > PHP:
->> None
+>> curl
+If you don't want any PHP requirement,please use v0.1.0 but there are some bugs there!
 > Python:
 >> Pyinstaller
 # The deployment instructions
